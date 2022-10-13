@@ -1,0 +1,6 @@
+# IDEA files
+.idea
+out
+
+/target/fibseq100.txt
+/target

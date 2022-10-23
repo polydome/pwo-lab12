@@ -4,3 +4,7 @@ out
 
 /target/fibseq100.txt
 /target
+
+# Gradle
+.gradle
+build
